@@ -1,1 +1,1 @@
-"# Zomato-Insights-EDA-FE" 
+This project involves analyzing the Zomato dataset to uncover valuable insights. It includes comparing data across various cities and countries to identify trends and patterns. Through Exploratory Data Analysis (EDA) and feature engineering, meaningful insights are derived, providing a deeper understanding of the Zomato ecosystem and its operational dynamics.
